@@ -20,7 +20,11 @@ I make stuff.
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
-## Stats
+## Details
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=jackchilds&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=jackchilds&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackchilds&layout=compact)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
