@@ -1,1 +1,1 @@
-!(SVG Banner)(https://svg-banners.vercel.app/api?type=glitch&text1=Hey%20there,%20I%27m%20Jack&width=1100&height=300)
+![SVG Banner](https://svg-banners.vercel.app/api?type=glitch&text1=Hey%20there,%20I%27m%20Jack&width=1100&height=300)
