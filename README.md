@@ -24,7 +24,9 @@ I make stuff.
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=jackchilds&show_icons=true&theme=radical&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackchilds&layout=compact)
 
+## Popular Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![JSMYSQLDB](https://github-readme-stats.vercel.app/api/pin/?username=jackchilds&repo=jsmysqldb)](https://github.com/JackChilds/jsmysqldb)
+[![Bug Reporter](https://github-readme-stats.vercel.app/api/pin/?username=jackchilds&repo=bug-reporter)](https://github.com/JackChilds/Bug-Reporter)
 
 
