@@ -1,4 +1,4 @@
-![SVG Banner](assets/banner.svg)
+![SVG Banner](assets/banner.png)
 
 I make stuff.
 
