@@ -1,5 +1,7 @@
 ![SVG Banner](assets/banner.png)
 
+![](https://hit.yhype.me/github/profile?user_id=35969199)
+
 I make stuff.
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=jackchilds&show_icons=true&theme=radical&count_private=true)
