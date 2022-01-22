@@ -23,11 +23,3 @@ I make stuff.
 ## OS
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
-
-## Popular Repositories
-
-[![JSMYSQLDB](https://github-readme-stats.vercel.app/api/pin/?username=jackchilds&repo=jsmysqldb)](https://github.com/JackChilds/jsmysqldb)
-
-[![Bug Reporter](https://github-readme-stats.vercel.app/api/pin/?username=jackchilds&repo=bug-reporter)](https://github.com/JackChilds/Bug-Reporter)
-
-
